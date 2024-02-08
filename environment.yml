@@ -1,0 +1,14 @@
+name: dsp-course
+channels:
+  - defaults
+dependencies:
+ - 
+ 
+ python=3.11.5
+ - ipykernel
+ - ipywidgets=7
+ - tqdm
+ - pandas=2.1.1
+ - scikit-learn=1.2.2
+ - matplotlib
+ - conda-forge::seaborn=0.13.1
