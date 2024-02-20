@@ -1,5 +1,5 @@
 # Analysis of Correlations between Human Development Index and IQ scores
-*This is a project for Class Data Analysis at Central European University, taught on Bachelor Level by Elisa Omodei*  
+*This is a project for Class Data Analysis at Central European University, taught on Bachelor Level by Assitant Professor Elisa Omodei*  
 
 
 ---
