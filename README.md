@@ -1,5 +1,7 @@
 # Analysis of Correlations between Human Development Index and IQ scores
 *This is a project for Class Data Analysis at Central European University, taught on Bachelor Level by Elisa Omodei*  
+
+
 ---
 
 This Anylsis investigates the correnation between the Human Development Index (HDI), a measure of a countries achievements in the field of human development, and countries average IQ score, an meaure of indivduals analytic intelligence. The Project in detail examines the variables interplay on a country level as well as on regional levels utiliting univeriate and bivariate technices, with focus on exploring the following Hypotheses:
